@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-storm",
+  "version": "1.0.0",
+  "description": "ESLint config for Storm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenseedtech/eslint-config-storm.git"
+  },
+  "author": "Steve Keiser",
+  "license": "ISC",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
+}
